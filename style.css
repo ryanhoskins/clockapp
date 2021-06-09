@@ -1,0 +1,14 @@
+h1{
+    color: cyan;
+    text-align: center;
+}
+
+.body-text{
+    color: cyan;
+    text-align: center;
+    font-size: 24px;
+}
+
+body{
+    background-color: black;
+}
