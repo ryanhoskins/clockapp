@@ -1,14 +1,15 @@
-h1{
+h1 {
     color: cyan;
     text-align: center;
 }
 
-.body-text{
+.body-text {
     color: cyan;
     text-align: center;
     font-size: 24px;
 }
 
-body{
+body {
+    margin: 0%;
     background-color: black;
 }
